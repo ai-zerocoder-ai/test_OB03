@@ -1,0 +1,31 @@
+{
+    "animals": [
+        {
+            "type": "Bird",
+            "name": "Vorona",
+            "age": 3
+        },
+        {
+            "type": "Mammal",
+            "name": "Tiger",
+            "age": 5
+        },
+        {
+            "type": "Reptile",
+            "name": "Crocodile",
+            "age": 2
+        }
+    ],
+    "employees": [
+        {
+            "type": "ZooKeeper",
+            "name": "Ivan",
+            "position": "ZooKeeper"
+        },
+        {
+            "type": "Veterinarian",
+            "name": "Anna",
+            "position": "Veterinarian"
+        }
+    ]
+}
